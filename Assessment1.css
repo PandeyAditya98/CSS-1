@@ -1,0 +1,18 @@
+body
+{
+    background:coral;
+}
+b{
+    font-style: oblique;
+    font-size: 22px;
+    color: red;
+}
+h1
+{
+    color: red;
+}
+.list4
+{
+    margin: 5px;
+    padding: 12px;
+}
